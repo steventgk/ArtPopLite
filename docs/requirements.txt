@@ -1,6 +1,0 @@
-ipython
-ipykernel
-sphinx-automodapi
-sphinx-astropy
-sphinxemoji
-nbsphinx
